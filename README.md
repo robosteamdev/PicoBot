@@ -25,6 +25,25 @@ where everything is.
 | Sensors | 5-channel line sensor (Cytron Maker Line), ultrasonic distance sensor (HC-SR04) |
 | Power | 2 × 18650 Li-ion cells (7.4 V) with an on/off switch |
 
+## Robot design document
+
+**[PicoBot Robot Design](PicoBot_Robot_Design_v4.pdf)** (Version 4.0, PDF, 41 pages) is the complete engineering description of PicoBot. It covers every part of the robot, from the chassis and the mecanum drive to the arm, electronics, power supply and control software. For each part it answers four questions:
+
+1. **What is it?** — the part, its main technical data and its job on the robot.
+2. **Why was it chosen?** — the requirement it meets and why it fits better than the usual alternatives.
+3. **How does it work?** — the physical or electrical principle, explained well enough to understand, repair and extend the robot.
+4. **How does it interact with the rest of the robot?** — power, signals, buses, software.
+
+It contains:
+
+- **Mechanics** — chassis, placement of the parts, how mecanum wheels work, kinematics, motors, the robot arm and its workspace.
+- **Electronics** — controller, motor driver, servo driver, battery, power distribution, the two I2C buses, line and ultrasonic sensors, and the full pin map.
+- **Control software** — software layers, motion control, web and joystick control, the programs for the four reference tasks, and the safety functions.
+- **Safety, verification and limitations** — design measures and operating rules, what was tested, known limitations and recommended improvements.
+- **Appendices** — bill of materials, the complete wiring list and references to the data sheets.
+
+It is written for anybody who wants to build, repair, adapt or improve PicoBot.
+
 ## Start here
 
 1. **Get the Teachers' Toolkit** — lesson plans, student materials, slides, reference documents (see below).
