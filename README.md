@@ -27,7 +27,11 @@ where everything is.
 
 ## Robot design document
 
-**[PicoBot Robot Design](PicoBot_Robot_Design_v4.pdf)** (Version 4.0, PDF, 41 pages) is the complete engineering description of PicoBot. It covers every part of the robot, from the chassis and the mecanum drive to the arm, electronics, power supply and control software. For each part it answers four questions:
+**[PicoBot Robot Design](PicoBot_Robot_Design_v4.pdf)** (Version 4.0, PDF, 41 pages) is the complete engineering description of PicoBot. It covers every part of the robot, from the chassis and the mecanum drive to the arm, electronics, power supply and control software.
+
+**Also available in:** [Български (Bulgarian)](PicoBot_Robot_Design_v4_bg.pdf) · [Română (Romanian)](PicoBot_Robot_Design_v4_ro.pdf) · [Slovenčina (Slovak)](PicoBot_Robot_Design_v4_sk.pdf) · [Українська (Ukrainian)](PicoBot_Robot_Design_v4_uk.pdf)
+
+For each part it answers four questions:
 
 1. **What is it?** — the part, its main technical data and its job on the robot.
 2. **Why was it chosen?** — the requirement it meets and why it fits better than the usual alternatives.
