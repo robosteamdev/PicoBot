@@ -87,11 +87,11 @@ It is written for anybody who wants to build, repair, adapt or improve PicoBot.
 
 | Language | Link |
 |---|---|
-| English | <https://cloud.streamitproject.eu/index.php/s/yN5Rb28KStpXd7Y> |
-| Български (Bulgarian) | <https://cloud.streamitproject.eu/index.php/s/rRPCdZygnjXnLC5> |
-| Română (Romanian) | <https://cloud.streamitproject.eu/index.php/s/6ZyCwBNYEp6a9oz> |
-| Slovenčina (Slovak) | <https://cloud.streamitproject.eu/index.php/s/K795484WefcyXdN> |
-| Українська (Ukrainian) | <https://cloud.streamitproject.eu/index.php/s/BfrKJKxNok568b7> |
+| English | <https://cloud.robosteam.eu/s/KQbdqP544KEqqYk> |
+| Български (Bulgarian) | <https://cloud.robosteam.eu/s/c93YNFNpZ6drfjL> |
+| Română (Romanian) | <https://cloud.robosteam.eu/s/cCCc8LCmyj7Ac2Z> |
+| Slovenčina (Slovak) | <https://cloud.robosteam.eu/s/YFi9EA8Td4mY4JH> |
+| Українська (Ukrainian) | <https://cloud.robosteam.eu/s/6PgoN8ZanzJo4dD> |
 
 ## Videos
 
